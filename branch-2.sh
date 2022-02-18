@@ -1,0 +1,4 @@
+
+#!/bash/sh
+
+echo $PATH
